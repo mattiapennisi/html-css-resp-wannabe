@@ -152,11 +152,28 @@ img {
 
     .card {
         width: 100%;
+
+        * {
+            margin: 10px 0;
+        }
+    }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+    .lessons .col {
+        width: 100%;
+    }
+
+    .steps .col {
+        width: 100%;
     }
 
     .why-us {
         background-color: #222222;
         margin-bottom: 0;
+        padding-top: 3rem;
     }
 
     .why-us .col-left {
